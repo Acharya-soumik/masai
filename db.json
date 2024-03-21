@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "name": "Test Name",
+      "author": "Soiumik",
+      "image": "https://placehold.co/400",
+      "content": "TYEst BCkjabckjasc",
+      "category": "html",
+      "like": 3,
+      "dislike": 1,
+      "id": 1
+    },
+    {
+      "name": "Test Neq",
+      "author": "Acharjee",
+      "image": "https://placehold.co/400",
+      "content": "cbjsjclbljcm b",
+      "category": "react",
+      "like": 3,
+      "dislike": 2,
+      "id": 2
+    }
+  ]
+}
